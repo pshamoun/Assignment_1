@@ -11,12 +11,12 @@ Include the following steps in the implementation:
 Feature Selection
 Feature Engineering (if necessary)
 Standard ML Preprocessing
-Train-Test Split
-Defining an RNN Architecture
-Creating a Training Loop
-Training the Model
-Experimenting with Hyperparameters
-Evaluating the Model
+#Train-Test Split
+#Defining an RNN Architecture
+#Creating a Training Loop
+#Training the Model
+#Experimenting with Hyperparameters
+#Evaluating the Model
 
 1. Feature Engineering
 Engineered features include:
