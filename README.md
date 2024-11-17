@@ -24,3 +24,4 @@ NumPy
 Matplotlib
 Scikit-learn
 
+![image](https://github.com/user-attachments/assets/28762d2a-f6b5-4986-b50b-f4e05fa817f9)
